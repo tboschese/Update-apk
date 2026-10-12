@@ -1,0 +1,6 @@
+apks/
+atualizados/
+tools/
+__pycache__/
+*.apk
+.DS_Store
